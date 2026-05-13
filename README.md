@@ -1,1 +1,1 @@
-# Meta-Model
+# SVM, Naive Bayes and Decision Tree combined
